@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rh-trex-tenant/rh-trex/rh-trex@sha256:911eee08c35ee7ff9357a0993f3c01852c3c5eaa1526db2711ac74612ae335e2
+      - image: quay.io/redhat-user-workloads/rh-trex-tenant/rh-trex/rh-trex@sha256:bde6d180d6eeef22fb6972348bc376a99cab0066c6e4a4af884d49ac3cbfabe8
         name: container-image
         resources: {}
 status: {}
